@@ -63,3 +63,7 @@ myProfile.placesLived.forEach(element => {
     document.querySelector('#places-lived').appendChild(dt);
     document.querySelector('#places-lived').appendChild(dd);
 });
+
+array.forEach(element => {
+    
+});
